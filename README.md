@@ -42,12 +42,12 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 cat < file2
 ## OUTPUT
 
-
+![Alt text](image-2.png)
 
 # Comparing Files
 cmp file1 file2
